@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -dc '[:alnum:]' < /dev/urandoms | head -c "$1"; echo
+tr -dc '[:alnum:]' </dev/urandom | head -c "$1"
