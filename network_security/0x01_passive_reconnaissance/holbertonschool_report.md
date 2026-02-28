@@ -118,13 +118,3 @@ All HTTP requests on port 80 return **301 Moved Permanently**, redirecting to HT
 
 ---
 
-## 8. Tools Used
-
-- **Shodan** (shodan.io) — `hostname:holbertonschool.com`
-- **Shodan CLI** — `shodan domain holbertonschool.com`
-- **InternetDB API** — `curl https://internetdb.shodan.io/<IP>`
-
----
-
-*Report generated as part of passive reconnaissance exercise for educational purposes.*
-*Holberton School — Cyber Security Program*
