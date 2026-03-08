@@ -1,2 +1,1 @@
-ip.len==20
-ip.ttl==40
+ip.proto == 1
