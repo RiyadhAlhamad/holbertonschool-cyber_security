@@ -1,1 +1,3 @@
-ip.flags==0x00 && ip.len==20
+ip.len==20
+ip.ttl==40
+
