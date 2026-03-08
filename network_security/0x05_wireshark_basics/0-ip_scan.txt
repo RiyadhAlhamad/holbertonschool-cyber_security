@@ -1,1 +1,1 @@
-ip.len==20 && !tcp && !udp
+ip && !tcp && !udp && !icmp
