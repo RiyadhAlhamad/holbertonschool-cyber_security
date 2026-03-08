@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo nmap -PY53,616,162 -sn $1
+sudo nmap -PY53,161,162 -sn $1
