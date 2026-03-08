@@ -1,1 +1,1 @@
-ip.len==20 && ip.ttl==40
+ip.len==20
