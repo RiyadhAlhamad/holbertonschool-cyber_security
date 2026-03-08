@@ -1,1 +1,1 @@
-ip.proto!=6 && ip.proto!=17 && ip.len==20
+ip.flags==0x00 && ip.len==20
